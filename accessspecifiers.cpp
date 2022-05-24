@@ -16,4 +16,5 @@ class B:protected A{
 int main(){
     B obj;
     obj.disp();
+    cout<<"changes done by 2110991788";
 }
